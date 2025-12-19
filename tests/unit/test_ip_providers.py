@@ -1,7 +1,6 @@
 """Unit tests for IP geolocation providers."""
 
 import pytest
-from httpx import Response
 
 from app.core.exceptions import (
     IPNotFoundError,
