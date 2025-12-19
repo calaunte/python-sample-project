@@ -309,10 +309,6 @@ The service validates IPs before calling the provider (fail-fast approach):
 
 **Coverage**: 93% overall, 100% on API endpoints and models
 
-## License
-
-[Specify license]
-
 ## Contact
 
 For questions or issues, contact the LivaNova Backend Engineering team.
